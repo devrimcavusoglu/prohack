@@ -1,0 +1,6 @@
+
+# JetBrains - PyCharm proj. settings
+.idea/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
